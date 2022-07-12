@@ -8,6 +8,7 @@ namespace HelloWorldApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is line 1");
+            Console.WriteLine("Welcome to Net");
         }
     }
 }
